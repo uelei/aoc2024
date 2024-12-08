@@ -8,9 +8,10 @@ Install the helper client aoc-cli [https://github.com/scarvalhojr/aoc-cli](https
 
 create the file ~/.adventofcode.session with you session cookie
 
-to download a day
+to create and download download a day
 
 ```bash
+cp -r day00 dayXX
 aoc download --day X
 
 ```
